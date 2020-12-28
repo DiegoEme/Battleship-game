@@ -1,0 +1,15 @@
+$dark-color: rgb(0, 0, 0);
+$clear-color: rgb(19, 177, 40);
+
+body {
+  background-color: $dark-color;
+}
+
+div {
+  #board {
+    position: relative;
+    background: url("board.jpg") no-repeat;
+    width: 1024px;
+    height: 863px;
+  }
+}
